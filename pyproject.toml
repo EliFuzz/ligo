@@ -1,0 +1,13 @@
+[project]
+name = "ligo"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "peft",
+    "pyarrow",
+    "torch",
+    "transformers>=5",
+]
+
+[tool.uv]
+package = false

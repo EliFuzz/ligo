@@ -1,0 +1,1 @@
+# Humanizer - Text Rewriter Adapter

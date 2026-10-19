@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+dataset
+models
+runs
+!.gitkeep
+
+# AI Slop
+AGENTS.md
+.agents
